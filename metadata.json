@@ -1,0 +1,6 @@
+{
+  "name": "Fiamma Wood-Fired Pizzeria",
+  "description": "Handcrafted Neapolitan sourdough pizzas, slow-fermented for 72 hours, baked at 900°F with imported Campania ingredients. Order online, craft custom pies, and reserve a table.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
